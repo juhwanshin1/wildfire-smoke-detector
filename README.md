@@ -32,7 +32,7 @@
 
 ## 🧪 단일 이미지 테스트
 
-1. `test_single_image.ipynb` 열기
+1. `test_model.ipynb` 열기
 2. 위의 링크에서 `fire_smoke_model.pth` 다운로드 후 Colab에 업로드
 3. 예측하고 싶은 이미지를 업로드한 뒤 실행
 
