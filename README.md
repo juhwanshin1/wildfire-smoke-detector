@@ -8,7 +8,7 @@
 
 - `train_model.ipynb`: 모델을 학습하는 Google Colab 노트북
 - `test_model.ipynb`: 학습된 모델로 단일 이미지를 예측하는 노트북
-- `fireandsmoke/`: 학습 및 테스트에 사용된 이미지 데이터셋
+- `wildfireandsmokedetector.ipynb`: 학습 및 테스트에 사용된 예측 모델 노트북
 - `requirements.txt`: 필요한 라이브러리 목록
 - `README.md`: 프로젝트 소개 문서
 
