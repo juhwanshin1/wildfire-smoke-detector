@@ -27,7 +27,6 @@
 
 👉 [fire_smoke_model.pth 다운로드](https://drive.google.com/uc?export=download&id=1yj8STJjaObQfESdwFoZrMsSzf9Kq9NUB)
 
-> 위 링크에서 `YOUR_FILE_ID_HERE` 부분을 실제 Google Drive 파일 ID로 바꿔주세요!
 
 ---
 
